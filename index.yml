@@ -1,0 +1,7 @@
+prelude:
+  repository: https://github.com/Gabie-of-the-Bo/Ryna-prelude.git
+  dependencies: []
+
+rynd:
+  repository: https://github.com/Gabie-of-the-Bo/Rynd.git
+  dependencies: []
